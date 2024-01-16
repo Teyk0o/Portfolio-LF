@@ -45,3 +45,10 @@ npm run build
 ```
 
 This will generate a static build of your site in the ``dist/`` directory.
+
+## Add project 🗂️
+
+To add a project, navigate to ``src/content/projects`` and add a ``.md`` file.
+For the image, go to ``src/assets/`` and upload your image there.
+
+That's all! Your project will be automatically added to your website.
