@@ -7,7 +7,7 @@ import vercel from "@astrojs/vercel/serverless";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://minimma.vercel.app",
+  site: "https://www.liloufougeray.com/",
   image: {
     service: squooshImageService(),
   },
